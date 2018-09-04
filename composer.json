@@ -1,0 +1,23 @@
+{
+    "name": "aalfiann/myanimelist-api-php",
+    "description": "A simple MyAnimeList API class to access MyAnimeList to your website PHP.",
+    "authors": [
+        {
+            "name": "M ABD AZIZ ALFIAN",
+            "email": "aalfiann@gmail.com",
+            "homepage": "https://github.com/aalfiann",
+            "role": "Developer"
+        }
+    ],
+    "type": "library",
+    "require": {
+        "php": "^5.3"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "aalfiann\\": "src/"
+        }
+    }
+}
