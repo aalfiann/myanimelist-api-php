@@ -1,6 +1,7 @@
 {
     "name": "aalfiann/myanimelist-api-php",
     "description": "A simple MyAnimeList API class to access MyAnimeList to your website PHP.",
+    "keywords": ["myanimelist","api"],
     "authors": [
         {
             "name": "M ABD AZIZ ALFIAN",
