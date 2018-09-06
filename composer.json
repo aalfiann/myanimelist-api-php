@@ -11,14 +11,15 @@
         }
     ],
     "type": "library",
+    "license": "MIT",
     "require": {
         "php": "^5.3"
     },
-    "license": "MIT",
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "aalfiann\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
