@@ -1,6 +1,6 @@
 MyAnimeList API PHP Class
 =======
-[![Version](https://img.shields.io/badge/stable-1.0.0-green.svg)](https://github.com/aalfiann/myanimelist-api-php)
+[![Version](https://img.shields.io/badge/stable-1.0.1-green.svg)](https://github.com/aalfiann/myanimelist-api-php)
 [![Total Downloads](https://poser.pugx.org/aalfiann/myanimelist-api-php/downloads)](https://packagist.org/packages/aalfiann/myanimelist-api-php)
 [![License](https://poser.pugx.org/aalfiann/myanimelist-api-php/license)](https://github.com/aalfiann/myanimelist-api-php/blob/HEAD/LICENSE.md)
 
